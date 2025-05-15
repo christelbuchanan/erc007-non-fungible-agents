@@ -1,5 +1,7 @@
 # ERC-007: Non-Fungible Agent (NFA) Token Standard
 
+![ERC-007 Non-Fungible Agents](https://raw.githubusercontent.com/christelbuchanan/erc007-non-fungible-agents/refs/heads/main/NFA-Header.png)
+
 ## Overview
 
 ERC-007 introduces Non-Fungible Agents (NFAs)—programmable, autonomous tokens that act as on-chain "agents" capable of executing tasks, evolving, and interacting with other contracts. Inspired by the iconic "007" designation for elite agents, this standard merges the uniqueness of NFTs with autonomous functionality, positioning Ethereum as the home for decentralized automation.
